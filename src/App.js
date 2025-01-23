@@ -14,13 +14,7 @@ function App() {
           href="https://reactjs.org"
           target="_blank"
           rel="noopener noreferrer"
-        >
-<<<<<<< HEAD
-          Learn React with dilkash
-          
-=======
-          Learn React with dilkash this change is done in github
->>>>>>> c54189dca12a6d83e01a83b02eeae7b1e3f782f5
+        >helo we will change alll of these
         </a>
       </header>
     </div>
